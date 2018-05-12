@@ -1,0 +1,41 @@
+get clearance
+set squawk
+call pushback
+beacon light on
+transponder auto
+when pushback calls: release parking brake
+start timer on center console
+eng mode selector start
+check PSI bottom of engine page
+check thrust levers idle
+start ENG 2
+when ENG 2 AVAIL: start ENG 1
+when ENG 1 AVAIL: eng mode selector norm
+APU bleed off
+consider wing and engine anti ice
+APU master off
+arm ground spoilers
+reset rudder trim
+set TO trim from tablet
+check doors armed
+when pushback calls: set parking brake
+turn off cpt tablet
+check taxi route
+watch for hand signal
+taxi lights on
+release parking brake
+check braking
+taxi with idle thrust
+fctl check
+button on tiller to check rudder
+auto brk max
+weather radar on
+tcas ta/ra
+TO config test
+when entering rwy
+strobe light on
+rwy turn off lights on
+landing lights on
+nose light TO
+rwy line up
+set brake

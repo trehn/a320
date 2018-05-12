@@ -1,0 +1,27 @@
+when touching down
+select reverse
+check spoilers on center display
+check reverse green
+check autobrake decel
+when at 80 kts
+tap brakes
+check autobrake disengaged
+when below 40 kts
+stow reversers, set fwd idle
+when RWY vacated
+landing lights off
+strobe lights off
+nose light taxi
+speedbrake disarm
+apu master on
+wait 3 sec
+APU start
+LS pushbutton off
+weather radar off
+flaps 0
+TCAS stdby
+when approaching stand
+RWY turn off lights off
+nose light off
+when at parking position
+set parking brake

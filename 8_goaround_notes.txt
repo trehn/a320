@@ -1,0 +1,15 @@
+"Go around, flaps"
+thrust levers TOGA
+flaps 3
+check positive climb
+gear up
+check FMA: SRS (CLB armed), NAV
+thrust lever CLB when requested
+when above F speed
+flaps 1
+when above S speed
+flaps 0
+disarm speedbrake
+rwy turn off lights off
+nose light off
+start timer

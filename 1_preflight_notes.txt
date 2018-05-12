@@ -1,0 +1,17 @@
+Pick origin and destination
+Get ATIS RWYs from http://esy.no/efb/
+Go to simbrief.com and set:
+* Origin (incl. RWY)
+* Destination (incl. RWY)
+* Aircraft Type
+* Pax
+* Cargo
+* Update to latest AIRAC
+Open FMS Data Manager.app and verify AIRAC matches simbrief
+Get from simbrief:
+* Route
+* Alternate
+* Block fuel
+* Pax
+* Cargo
+* Cruise level

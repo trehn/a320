@@ -1,0 +1,34 @@
+when 5 nm from TOD
+select ILS capture altitude in FCU and push
+check FMA: DES (ALT armed)
+QNH push and set
+perf go to APPR phase
+set QNH, temp, wind from http://metar.vatsim.net/search_metar.php
+check APPR chart for DH/MDA (cat C if Vapp < 140 else cat D)
+when CAT I ILS or VOR/NDB: set MDA
+when CAT II or III ILS: set DH
+when passing FL100
+landing lights on
+seatbelt signs on
+when approx 25 nm from dest
+LS pushbutton on
+when past DECEL point and APPR phase active
+APPR pushbutton on
+AP2 on
+check FMA: G/S armed, LOC armed
+when 10 kts above green dot speed
+flaps 1
+when 10 kts above S speed (before intercepting G/S)
+flaps 2
+when G/S captured
+set missed APPR alt in FCU
+select speed 160 and pull
+when 6 nm from ILS DME
+push speed
+gear down
+arm speedbrake
+RWY turn off lights on
+taxi light on
+flaps 3
+flaps full
+auto brake low/med

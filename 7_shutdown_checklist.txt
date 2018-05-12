@@ -1,0 +1,7 @@
+check APU avail
+engine anti ice off
+ENG1 + ENG2 off
+seatbelt signs off
+beacon lights off
+squawk 2000
+transponder stdby

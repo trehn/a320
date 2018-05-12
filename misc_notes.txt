@@ -1,0 +1,4 @@
+Final fuel reserve approx. 1100 to 1200 kg (for 30 min endurance at green dot speed 1500 ft AGL)
+Green dot speed: optimum glide speed in clean config
+Activating approach phase will target Vapp, but only down to minimum speed at current config (green dot, S, F)
+approach speed vs. distance: at 160 kts no closer than 4.5 nm, at 170 no closer than 5.5 nm, at 180 no closer than 6.5 nm

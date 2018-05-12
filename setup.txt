@@ -1,0 +1,6 @@
+X-Plane 11
+FlightFactor A320 Ultimate
+Navigraph Charts Desktop (incl. Simlink)
+https://www.simbrief.com/ (linked to Navigraph subscription for latest AIRAC)
+METAR: http://esy.no/efb/ or http://metar.vatsim.net/EDDF
+ATIS: http://esy.no/efb/

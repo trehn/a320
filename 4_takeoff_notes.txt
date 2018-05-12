@@ -1,0 +1,29 @@
+check FMA: armed CLB, armed NAV
+check A/THR armed
+check FD on
+chrono
+brake release
+half forward stick
+THR LVR to FLX
+check FMA: MAN FLX, SRS (CLB armed), RWY (NAV armed)
+when at 80 kts
+release stick
+when at Vr
+pitch to 15 deg up within 5 sec
+check positive climb
+gear up
+check NAV engaged
+AP1 on
+LVR CLB when requested
+check THR CLB, A/THR engaged
+when F speed
+flaps 1
+when S speed
+flaps 0
+disarm spoilers
+nose light off
+taxi turn off light off
+altimeter std when requested
+when above FL100
+landing lights off
+seatbelt signs auto
