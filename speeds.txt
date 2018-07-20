@@ -1,0 +1,17 @@
+V1
+VR
+V2
+green dot
+Vref
+Vmo (max operating speed): 350 KIAS / .82 M
+Vle (max gear extended speed): 280 KIAS / .67 M
+Vww (max windshield wiper operating speed): 230 KIAS
+Vls
+Vapp
+max tire speed: 195 kts
+max window open speed: 200 kts
+
+Airline limits:
+
+Taxi: 30 kts
+Taxi 90 deg turn: 10 kts

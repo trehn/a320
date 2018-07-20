@@ -28,6 +28,7 @@ check braking
 taxi with idle thrust
 fctl check
 button on tiller to check rudder
+set flaps
 auto brk max
 weather radar on
 tcas ta/ra

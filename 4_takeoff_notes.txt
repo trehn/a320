@@ -8,9 +8,11 @@ THR LVR to FLX
 check FMA: MAN FLX, SRS (CLB armed), RWY (NAV armed)
 when at 80 kts
 release stick
+when at V1
+hand off throttle
 when at Vr
 pitch to 15 deg up within 5 sec
-check positive climb
+check positive climb on RA
 gear up
 check NAV engaged
 AP1 on

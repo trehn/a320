@@ -1,59 +1,61 @@
-Turn off FO tablet
-Request GPU
-Request and load fuel
-Request and load pax
-Request and load cargo
+turn off FO tablet
+request GPU
+set chocks
+check parking brake on
+request and load fuel
+request and load pax
+request and load cargo
 check gear handle down
-check transponder stby
+check transponder standby
 check weather radar off
 check wipers off
-ext power on
-bat 1 and 2 on
-ir 1 nav
-ir 2 nav
-ir 3 nav
-emrg exit lights arm
+external power on
+battery 1 and 2 on
+IR 1 nav
+IR 2 nav
+IR 3 nav
+emergency exit lights arm
 no smoking auto
 strobe lights auto
 beacon lights off
 wing lights off
-nav and logo lights 1
+nav and logo lights system 1
 dome light dim
-ann light brt
+annunciator lights bright
 pack flow norm
-air cond temp cockpit set
-air cond temp fwd set
-air cond temp aft set
-fcu cstr on
-cancel master caut tcas
+air condition temperature cockpit
+air condition temperature forward
+air condition temperature aft
+FCU constraints on
+cancel master caution TCAS
 antiskid on
-fms init from/to
-flt nmbr
-ci 20
+FMS init from/to
+flight number
+cost indes
 flight level
 alternate
-align irs
-f-pln
-select departure rwy and sid
-select sid final alt in fcu
-select arr rwy and star
+align IRS
+flightplan
+select departure runway and sid
+select SID final altitude in FCU
+select arrival runway and star
 enter route
 init wind wind request
-sec f-pln
+secondary flightplan
 copy active
 select end of sid
-new dest origin
-select arr rwy and star
-QNH hPa
+new destination origin
+select arrival runway and star
+set QNH from http://metar.vatsim.net/search_metar.php
 check FOB on center display
 APU master on
-wait 3sec
+wait 3 seconds
 APU start
 dismiss fuel truck
 dismiss stairs
 dismiss cargo loaders
 when APU avail
-ext power off
+external power off
 dismiss GPU
 APU bleed on
 fuel pumps on
@@ -61,8 +63,8 @@ seatbelt signs on
 init right arrow
 set zfw/zfwcg from tablet
 set block fuel from center display
-check TOW + TAXI = gross weight on tablet
-perf
+check TOW + taxi = gross weight on tablet
+perf page
 flaps 1 or 2 and trim pos from tablet
 flex 45 to 55
 set vr and v2 automatically

@@ -1,5 +1,5 @@
 Pick origin and destination
-Get ATIS RWYs from http://esy.no/efb/
+Get ATIS RWYs and QNHs from http://esy.no/efb/
 Go to simbrief.com and set:
 * Origin (incl. RWY)
 * Destination (incl. RWY)
@@ -15,3 +15,8 @@ Get from simbrief:
 * Pax
 * Cargo
 * Cruise level
+* Cost index
+Get from Navigraph Charts:
+* Departure Gate/Stand
+* Arrival Gate/Stand
+Start Navigraph Simlink.app
