@@ -31,7 +31,7 @@ cancel master caution TCAS
 antiskid on
 FMS init from/to
 flight number
-cost indes
+cost index
 flight level
 alternate
 align IRS
@@ -65,9 +65,9 @@ set zfw/zfwcg from tablet
 set block fuel from center display
 check TOW + taxi = gross weight on tablet
 perf page
-flaps 1 or 2 and trim pos from tablet
+flaps 1 or 2 and trim from tablet
 flex 45 to 55
-set vr and v2 automatically
-set v1 to vr or slightly below
-fmc pf perf
-fmc pm f-pln
+set VR and V2 automatically
+set V1 to VR or slightly below
+FMC pilot flying perf page
+FMC pilot monitoring flightplan page
