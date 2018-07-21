@@ -1,3 +1,5 @@
+check parking brake on
+remove chocks
 get clearance
 set squawk
 call pushback
@@ -5,12 +7,12 @@ beacon light on
 transponder auto
 when pushback calls: release parking brake
 start timer on center console
-eng mode selector start
+engine mode selector start
 check PSI bottom of engine page
 check thrust levers idle
-start ENG 2
-when ENG 2 AVAIL: start ENG 1
-when ENG 1 AVAIL: eng mode selector norm
+start engine 2
+when engine 2 available: start engine 1
+when engine 1 available: engine mode selector normal
 APU bleed off
 consider wing and engine anti ice
 APU master off
@@ -19,24 +21,24 @@ reset rudder trim
 set TO trim from tablet
 check doors armed
 when pushback calls: set parking brake
-turn off cpt tablet
+turn off captain tablet
 check taxi route
 watch for hand signal
 taxi lights on
 release parking brake
 check braking
 taxi with idle thrust
-fctl check
+flight controls check
 button on tiller to check rudder
 set flaps
-auto brk max
+auto brake max
 weather radar on
-tcas ta/ra
+TCAS TA/RA
 TO config test
-when entering rwy
+when entering runway
 strobe light on
-rwy turn off lights on
+runway turn off lights on
 landing lights on
-nose light TO
-rwy line up
+nose light takeoff
+runway line up
 set brake
